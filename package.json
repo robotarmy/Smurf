@@ -1,0 +1,24 @@
+{
+    "name": "smurf",
+    "description": "turf",
+    "version": "0.1.0",
+    "keywords": "burgler",
+    "bugs": "mailto:curtis+smurf+bugs@ram9.cc",
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "http://www.example.com/licenses/gpl.html"
+        }
+    ],
+    "maintainers": [
+        {
+            "web": "http://ram9.cc",
+            "name": "Curtis Schofield",
+            "email": "curtis@ram9.cc"
+        }
+    ],
+    "dependencies": {
+        "coffee-script": ""
+    }
+}
+
