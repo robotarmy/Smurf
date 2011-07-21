@@ -17,6 +17,10 @@
             "email": "curtis@ram9.cc"
         }
     ],
+    "devDependencies": {
+        "vows": "",
+        "zombie":""
+    },
     "dependencies": {
         "coffee-script": ""
     }
